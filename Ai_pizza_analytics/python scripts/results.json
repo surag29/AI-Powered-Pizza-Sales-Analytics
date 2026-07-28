@@ -1,0 +1,1866 @@
+{
+    "generated_at": "2026-07-28T16:36:34.058387",
+    "results": {
+        "total_orders": 21350,
+        "total_revenue": 817860.05,
+        "highest_priced_pizza": {
+            "name": "The Greek Pizza",
+            "price": 35.95
+        },
+        "most_common_size": [
+            {
+                "size": "L",
+                "order_count": 18526
+            },
+            {
+                "size": "M",
+                "order_count": 15385
+            },
+            {
+                "size": "S",
+                "order_count": 14137
+            },
+            {
+                "size": "XL",
+                "order_count": 544
+            },
+            {
+                "size": "XXL",
+                "order_count": 28
+            }
+        ],
+        "top_5_pizzas": [
+            {
+                "name": "The Classic Deluxe Pizza",
+                "total_quantity": "2453"
+            },
+            {
+                "name": "The Barbecue Chicken Pizza",
+                "total_quantity": "2432"
+            },
+            {
+                "name": "The Hawaiian Pizza",
+                "total_quantity": "2422"
+            },
+            {
+                "name": "The Pepperoni Pizza",
+                "total_quantity": "2418"
+            },
+            {
+                "name": "The Thai Chicken Pizza",
+                "total_quantity": "2371"
+            }
+        ],
+        "quantity_by_category": [
+            {
+                "category": "Classic",
+                "total_quantity": "14888"
+            },
+            {
+                "category": "Veggie",
+                "total_quantity": "11649"
+            },
+            {
+                "category": "Supreme",
+                "total_quantity": "11987"
+            },
+            {
+                "category": "Chicken",
+                "total_quantity": "11050"
+            }
+        ],
+        "orders_by_hour": [
+            {
+                "hour": 11,
+                "order_count": 1231
+            },
+            {
+                "hour": 12,
+                "order_count": 2520
+            },
+            {
+                "hour": 13,
+                "order_count": 2455
+            },
+            {
+                "hour": 14,
+                "order_count": 1472
+            },
+            {
+                "hour": 15,
+                "order_count": 1468
+            },
+            {
+                "hour": 16,
+                "order_count": 1920
+            },
+            {
+                "hour": 17,
+                "order_count": 2336
+            },
+            {
+                "hour": 18,
+                "order_count": 2399
+            },
+            {
+                "hour": 19,
+                "order_count": 2009
+            },
+            {
+                "hour": 20,
+                "order_count": 1642
+            },
+            {
+                "hour": 21,
+                "order_count": 1198
+            },
+            {
+                "hour": 22,
+                "order_count": 663
+            },
+            {
+                "hour": 23,
+                "order_count": 28
+            },
+            {
+                "hour": 10,
+                "order_count": 8
+            },
+            {
+                "hour": 9,
+                "order_count": 1
+            }
+        ],
+        "pizza_count_by_category": [
+            {
+                "category": "Chicken",
+                "pizza_count": 6
+            },
+            {
+                "category": "Classic",
+                "pizza_count": 8
+            },
+            {
+                "category": "Supreme",
+                "pizza_count": 9
+            },
+            {
+                "category": "Veggie",
+                "pizza_count": 9
+            }
+        ],
+        "avg_pizzas_per_day": "138.4749",
+        "top_3_by_revenue": [
+            {
+                "name": "The Thai Chicken Pizza",
+                "revenue": 43434.25
+            },
+            {
+                "name": "The Barbecue Chicken Pizza",
+                "revenue": 42768.0
+            },
+            {
+                "name": "The California Chicken Pizza",
+                "revenue": 41409.5
+            }
+        ],
+        "revenue_percentage_by_category": [
+            {
+                "category": "Classic",
+                "percentage_contribution": 26.90596025566967
+            },
+            {
+                "category": "Supreme",
+                "percentage_contribution": 25.45631126009862
+            },
+            {
+                "category": "Chicken",
+                "percentage_contribution": 23.955137556847287
+            },
+            {
+                "category": "Veggie",
+                "percentage_contribution": 23.682590927384577
+            }
+        ],
+        "cumulative_revenue": [
+            {
+                "order_date": "2015-01-01",
+                "cumm_revenue": 2713.8500000000004
+            },
+            {
+                "order_date": "2015-01-02",
+                "cumm_revenue": 5445.75
+            },
+            {
+                "order_date": "2015-01-03",
+                "cumm_revenue": 8108.15
+            },
+            {
+                "order_date": "2015-01-04",
+                "cumm_revenue": 9863.6
+            },
+            {
+                "order_date": "2015-01-05",
+                "cumm_revenue": 11929.55
+            },
+            {
+                "order_date": "2015-01-06",
+                "cumm_revenue": 14358.5
+            },
+            {
+                "order_date": "2015-01-07",
+                "cumm_revenue": 16560.7
+            },
+            {
+                "order_date": "2015-01-08",
+                "cumm_revenue": 19399.05
+            },
+            {
+                "order_date": "2015-01-09",
+                "cumm_revenue": 21526.4
+            },
+            {
+                "order_date": "2015-01-10",
+                "cumm_revenue": 23990.350000000002
+            },
+            {
+                "order_date": "2015-01-11",
+                "cumm_revenue": 25862.65
+            },
+            {
+                "order_date": "2015-01-12",
+                "cumm_revenue": 27781.7
+            },
+            {
+                "order_date": "2015-01-13",
+                "cumm_revenue": 29831.300000000003
+            },
+            {
+                "order_date": "2015-01-14",
+                "cumm_revenue": 32358.700000000004
+            },
+            {
+                "order_date": "2015-01-15",
+                "cumm_revenue": 34343.50000000001
+            },
+            {
+                "order_date": "2015-01-16",
+                "cumm_revenue": 36937.65000000001
+            },
+            {
+                "order_date": "2015-01-17",
+                "cumm_revenue": 39001.75000000001
+            },
+            {
+                "order_date": "2015-01-18",
+                "cumm_revenue": 40978.600000000006
+            },
+            {
+                "order_date": "2015-01-19",
+                "cumm_revenue": 43365.75000000001
+            },
+            {
+                "order_date": "2015-01-20",
+                "cumm_revenue": 45763.65000000001
+            },
+            {
+                "order_date": "2015-01-21",
+                "cumm_revenue": 47804.20000000001
+            },
+            {
+                "order_date": "2015-01-22",
+                "cumm_revenue": 50300.90000000001
+            },
+            {
+                "order_date": "2015-01-23",
+                "cumm_revenue": 52724.600000000006
+            },
+            {
+                "order_date": "2015-01-24",
+                "cumm_revenue": 55013.850000000006
+            },
+            {
+                "order_date": "2015-01-25",
+                "cumm_revenue": 56631.40000000001
+            },
+            {
+                "order_date": "2015-01-26",
+                "cumm_revenue": 58515.80000000001
+            },
+            {
+                "order_date": "2015-01-27",
+                "cumm_revenue": 61043.85000000001
+            },
+            {
+                "order_date": "2015-01-28",
+                "cumm_revenue": 63059.85000000001
+            },
+            {
+                "order_date": "2015-01-29",
+                "cumm_revenue": 65105.150000000016
+            },
+            {
+                "order_date": "2015-01-30",
+                "cumm_revenue": 67375.45000000001
+            },
+            {
+                "order_date": "2015-01-31",
+                "cumm_revenue": 69793.30000000002
+            },
+            {
+                "order_date": "2015-02-01",
+                "cumm_revenue": 72982.50000000001
+            },
+            {
+                "order_date": "2015-02-02",
+                "cumm_revenue": 75311.10000000002
+            },
+            {
+                "order_date": "2015-02-03",
+                "cumm_revenue": 77925.90000000002
+            },
+            {
+                "order_date": "2015-02-04",
+                "cumm_revenue": 80159.80000000002
+            },
+            {
+                "order_date": "2015-02-05",
+                "cumm_revenue": 82375.60000000002
+            },
+            {
+                "order_date": "2015-02-06",
+                "cumm_revenue": 84885.55000000002
+            },
+            {
+                "order_date": "2015-02-07",
+                "cumm_revenue": 87123.20000000001
+            },
+            {
+                "order_date": "2015-02-08",
+                "cumm_revenue": 89158.20000000001
+            },
+            {
+                "order_date": "2015-02-09",
+                "cumm_revenue": 91353.55000000002
+            },
+            {
+                "order_date": "2015-02-10",
+                "cumm_revenue": 93410.05000000002
+            },
+            {
+                "order_date": "2015-02-11",
+                "cumm_revenue": 95870.05000000002
+            },
+            {
+                "order_date": "2015-02-12",
+                "cumm_revenue": 98028.85000000002
+            },
+            {
+                "order_date": "2015-02-13",
+                "cumm_revenue": 100783.35000000002
+            },
+            {
+                "order_date": "2015-02-14",
+                "cumm_revenue": 103102.50000000001
+            },
+            {
+                "order_date": "2015-02-15",
+                "cumm_revenue": 105243.75000000001
+            },
+            {
+                "order_date": "2015-02-16",
+                "cumm_revenue": 107212.55000000002
+            },
+            {
+                "order_date": "2015-02-17",
+                "cumm_revenue": 109334.45000000001
+            },
+            {
+                "order_date": "2015-02-18",
+                "cumm_revenue": 111977.30000000002
+            },
+            {
+                "order_date": "2015-02-19",
+                "cumm_revenue": 114007.55000000002
+            },
+            {
+                "order_date": "2015-02-20",
+                "cumm_revenue": 116898.70000000001
+            },
+            {
+                "order_date": "2015-02-21",
+                "cumm_revenue": 119009.70000000001
+            },
+            {
+                "order_date": "2015-02-22",
+                "cumm_revenue": 120589.65000000001
+            },
+            {
+                "order_date": "2015-02-23",
+                "cumm_revenue": 122758.20000000001
+            },
+            {
+                "order_date": "2015-02-24",
+                "cumm_revenue": 124952.75000000001
+            },
+            {
+                "order_date": "2015-02-25",
+                "cumm_revenue": 127294.05000000002
+            },
+            {
+                "order_date": "2015-02-26",
+                "cumm_revenue": 129555.35000000002
+            },
+            {
+                "order_date": "2015-02-27",
+                "cumm_revenue": 132413.30000000002
+            },
+            {
+                "order_date": "2015-02-28",
+                "cumm_revenue": 134952.90000000002
+            },
+            {
+                "order_date": "2015-03-01",
+                "cumm_revenue": 136551.45
+            },
+            {
+                "order_date": "2015-03-02",
+                "cumm_revenue": 138930.5
+            },
+            {
+                "order_date": "2015-03-03",
+                "cumm_revenue": 141218.4
+            },
+            {
+                "order_date": "2015-03-04",
+                "cumm_revenue": 143662.69999999998
+            },
+            {
+                "order_date": "2015-03-05",
+                "cumm_revenue": 146013.34999999998
+            },
+            {
+                "order_date": "2015-03-06",
+                "cumm_revenue": 148527.3
+            },
+            {
+                "order_date": "2015-03-07",
+                "cumm_revenue": 150927.75
+            },
+            {
+                "order_date": "2015-03-08",
+                "cumm_revenue": 153115.9
+            },
+            {
+                "order_date": "2015-03-09",
+                "cumm_revenue": 155450.44999999998
+            },
+            {
+                "order_date": "2015-03-10",
+                "cumm_revenue": 157839.15
+            },
+            {
+                "order_date": "2015-03-11",
+                "cumm_revenue": 160046.85
+            },
+            {
+                "order_date": "2015-03-12",
+                "cumm_revenue": 162041.75
+            },
+            {
+                "order_date": "2015-03-13",
+                "cumm_revenue": 164828.4
+            },
+            {
+                "order_date": "2015-03-14",
+                "cumm_revenue": 166867.85
+            },
+            {
+                "order_date": "2015-03-15",
+                "cumm_revenue": 168936.45
+            },
+            {
+                "order_date": "2015-03-16",
+                "cumm_revenue": 171231.5
+            },
+            {
+                "order_date": "2015-03-17",
+                "cumm_revenue": 174196.8
+            },
+            {
+                "order_date": "2015-03-18",
+                "cumm_revenue": 176272.19999999998
+            },
+            {
+                "order_date": "2015-03-19",
+                "cumm_revenue": 178660.8
+            },
+            {
+                "order_date": "2015-03-20",
+                "cumm_revenue": 181122.05
+            },
+            {
+                "order_date": "2015-03-21",
+                "cumm_revenue": 183389.44999999998
+            },
+            {
+                "order_date": "2015-03-22",
+                "cumm_revenue": 184648.69999999998
+            },
+            {
+                "order_date": "2015-03-23",
+                "cumm_revenue": 186881.24999999997
+            },
+            {
+                "order_date": "2015-03-24",
+                "cumm_revenue": 189043.54999999996
+            },
+            {
+                "order_date": "2015-03-25",
+                "cumm_revenue": 190971.29999999996
+            },
+            {
+                "order_date": "2015-03-26",
+                "cumm_revenue": 193186.79999999996
+            },
+            {
+                "order_date": "2015-03-27",
+                "cumm_revenue": 195931.59999999995
+            },
+            {
+                "order_date": "2015-03-28",
+                "cumm_revenue": 198183.69999999995
+            },
+            {
+                "order_date": "2015-03-29",
+                "cumm_revenue": 200337.94999999995
+            },
+            {
+                "order_date": "2015-03-30",
+                "cumm_revenue": 202593.39999999997
+            },
+            {
+                "order_date": "2015-03-31",
+                "cumm_revenue": 205349.99999999997
+            },
+            {
+                "order_date": "2015-04-01",
+                "cumm_revenue": 207526.84999999998
+            },
+            {
+                "order_date": "2015-04-02",
+                "cumm_revenue": 210073.99999999997
+            },
+            {
+                "order_date": "2015-04-03",
+                "cumm_revenue": 212612.19999999998
+            },
+            {
+                "order_date": "2015-04-04",
+                "cumm_revenue": 215379.74999999997
+            },
+            {
+                "order_date": "2015-04-05",
+                "cumm_revenue": 217289.59999999998
+            },
+            {
+                "order_date": "2015-04-06",
+                "cumm_revenue": 219911.94999999998
+            },
+            {
+                "order_date": "2015-04-07",
+                "cumm_revenue": 222146.19999999998
+            },
+            {
+                "order_date": "2015-04-08",
+                "cumm_revenue": 224440.15
+            },
+            {
+                "order_date": "2015-04-09",
+                "cumm_revenue": 226487.44999999998
+            },
+            {
+                "order_date": "2015-04-10",
+                "cumm_revenue": 228912.4
+            },
+            {
+                "order_date": "2015-04-11",
+                "cumm_revenue": 231456.15
+            },
+            {
+                "order_date": "2015-04-12",
+                "cumm_revenue": 233450.44999999998
+            },
+            {
+                "order_date": "2015-04-13",
+                "cumm_revenue": 235946.65
+            },
+            {
+                "order_date": "2015-04-14",
+                "cumm_revenue": 238452.35
+            },
+            {
+                "order_date": "2015-04-15",
+                "cumm_revenue": 241031.2
+            },
+            {
+                "order_date": "2015-04-16",
+                "cumm_revenue": 243049.15000000002
+            },
+            {
+                "order_date": "2015-04-17",
+                "cumm_revenue": 245724.80000000002
+            },
+            {
+                "order_date": "2015-04-18",
+                "cumm_revenue": 248011.00000000003
+            },
+            {
+                "order_date": "2015-04-19",
+                "cumm_revenue": 249538.95000000004
+            },
+            {
+                "order_date": "2015-04-20",
+                "cumm_revenue": 251998.40000000005
+            },
+            {
+                "order_date": "2015-04-21",
+                "cumm_revenue": 254211.55000000005
+            },
+            {
+                "order_date": "2015-04-22",
+                "cumm_revenue": 256405.00000000006
+            },
+            {
+                "order_date": "2015-04-23",
+                "cumm_revenue": 258831.15000000005
+            },
+            {
+                "order_date": "2015-04-24",
+                "cumm_revenue": 261810.35000000006
+            },
+            {
+                "order_date": "2015-04-25",
+                "cumm_revenue": 263899.55000000005
+            },
+            {
+                "order_date": "2015-04-26",
+                "cumm_revenue": 265666.95000000007
+            },
+            {
+                "order_date": "2015-04-27",
+                "cumm_revenue": 267847.75000000006
+            },
+            {
+                "order_date": "2015-04-28",
+                "cumm_revenue": 269590.55000000005
+            },
+            {
+                "order_date": "2015-04-29",
+                "cumm_revenue": 271419.30000000005
+            },
+            {
+                "order_date": "2015-04-30",
+                "cumm_revenue": 274086.80000000005
+            },
+            {
+                "order_date": "2015-05-01",
+                "cumm_revenue": 276658.75000000006
+            },
+            {
+                "order_date": "2015-05-02",
+                "cumm_revenue": 279058.95000000007
+            },
+            {
+                "order_date": "2015-05-03",
+                "cumm_revenue": 280891.20000000007
+            },
+            {
+                "order_date": "2015-05-04",
+                "cumm_revenue": 283180.1000000001
+            },
+            {
+                "order_date": "2015-05-05",
+                "cumm_revenue": 284893.70000000007
+            },
+            {
+                "order_date": "2015-05-06",
+                "cumm_revenue": 287203.50000000006
+            },
+            {
+                "order_date": "2015-05-07",
+                "cumm_revenue": 289432.35000000003
+            },
+            {
+                "order_date": "2015-05-08",
+                "cumm_revenue": 292484.65
+            },
+            {
+                "order_date": "2015-05-09",
+                "cumm_revenue": 294853.05000000005
+            },
+            {
+                "order_date": "2015-05-10",
+                "cumm_revenue": 297141.4
+            },
+            {
+                "order_date": "2015-05-11",
+                "cumm_revenue": 299529.45
+            },
+            {
+                "order_date": "2015-05-12",
+                "cumm_revenue": 301829.15
+            },
+            {
+                "order_date": "2015-05-13",
+                "cumm_revenue": 304090.95
+            },
+            {
+                "order_date": "2015-05-14",
+                "cumm_revenue": 306785.45
+            },
+            {
+                "order_date": "2015-05-15",
+                "cumm_revenue": 310171.60000000003
+            },
+            {
+                "order_date": "2015-05-16",
+                "cumm_revenue": 312452.7
+            },
+            {
+                "order_date": "2015-05-17",
+                "cumm_revenue": 314281.10000000003
+            },
+            {
+                "order_date": "2015-05-18",
+                "cumm_revenue": 316490.75000000006
+            },
+            {
+                "order_date": "2015-05-19",
+                "cumm_revenue": 318477.75000000006
+            },
+            {
+                "order_date": "2015-05-20",
+                "cumm_revenue": 320850.75000000006
+            },
+            {
+                "order_date": "2015-05-21",
+                "cumm_revenue": 322913.30000000005
+            },
+            {
+                "order_date": "2015-05-22",
+                "cumm_revenue": 325548.4
+            },
+            {
+                "order_date": "2015-05-23",
+                "cumm_revenue": 327992.55000000005
+            },
+            {
+                "order_date": "2015-05-24",
+                "cumm_revenue": 330189.50000000006
+            },
+            {
+                "order_date": "2015-05-25",
+                "cumm_revenue": 332293.9000000001
+            },
+            {
+                "order_date": "2015-05-26",
+                "cumm_revenue": 334170.3500000001
+            },
+            {
+                "order_date": "2015-05-27",
+                "cumm_revenue": 336267.3500000001
+            },
+            {
+                "order_date": "2015-05-28",
+                "cumm_revenue": 338283.7500000001
+            },
+            {
+                "order_date": "2015-05-29",
+                "cumm_revenue": 341284.9500000001
+            },
+            {
+                "order_date": "2015-05-30",
+                "cumm_revenue": 343771.90000000014
+            },
+            {
+                "order_date": "2015-05-31",
+                "cumm_revenue": 345489.55000000016
+            },
+            {
+                "order_date": "2015-06-01",
+                "cumm_revenue": 348557.30000000016
+            },
+            {
+                "order_date": "2015-06-02",
+                "cumm_revenue": 351007.2500000002
+            },
+            {
+                "order_date": "2015-06-03",
+                "cumm_revenue": 352914.30000000016
+            },
+            {
+                "order_date": "2015-06-04",
+                "cumm_revenue": 355197.90000000014
+            },
+            {
+                "order_date": "2015-06-05",
+                "cumm_revenue": 357898.05000000016
+            },
+            {
+                "order_date": "2015-06-06",
+                "cumm_revenue": 360179.0000000002
+            },
+            {
+                "order_date": "2015-06-07",
+                "cumm_revenue": 362139.7500000002
+            },
+            {
+                "order_date": "2015-06-08",
+                "cumm_revenue": 364404.7000000002
+            },
+            {
+                "order_date": "2015-06-09",
+                "cumm_revenue": 366847.2500000002
+            },
+            {
+                "order_date": "2015-06-10",
+                "cumm_revenue": 368866.6500000002
+            },
+            {
+                "order_date": "2015-06-11",
+                "cumm_revenue": 371517.1500000002
+            },
+            {
+                "order_date": "2015-06-12",
+                "cumm_revenue": 373655.7500000002
+            },
+            {
+                "order_date": "2015-06-13",
+                "cumm_revenue": 376164.6500000002
+            },
+            {
+                "order_date": "2015-06-14",
+                "cumm_revenue": 378023.6500000002
+            },
+            {
+                "order_date": "2015-06-15",
+                "cumm_revenue": 380619.2500000002
+            },
+            {
+                "order_date": "2015-06-16",
+                "cumm_revenue": 382517.55000000016
+            },
+            {
+                "order_date": "2015-06-17",
+                "cumm_revenue": 384654.65000000014
+            },
+            {
+                "order_date": "2015-06-18",
+                "cumm_revenue": 386639.15000000014
+            },
+            {
+                "order_date": "2015-06-19",
+                "cumm_revenue": 389432.60000000015
+            },
+            {
+                "order_date": "2015-06-20",
+                "cumm_revenue": 391493.2000000001
+            },
+            {
+                "order_date": "2015-06-21",
+                "cumm_revenue": 393418.40000000014
+            },
+            {
+                "order_date": "2015-06-22",
+                "cumm_revenue": 395737.7000000001
+            },
+            {
+                "order_date": "2015-06-23",
+                "cumm_revenue": 397780.4500000001
+            },
+            {
+                "order_date": "2015-06-24",
+                "cumm_revenue": 400107.9500000001
+            },
+            {
+                "order_date": "2015-06-25",
+                "cumm_revenue": 402507.10000000015
+            },
+            {
+                "order_date": "2015-06-26",
+                "cumm_revenue": 405252.60000000015
+            },
+            {
+                "order_date": "2015-06-27",
+                "cumm_revenue": 408065.5000000002
+            },
+            {
+                "order_date": "2015-06-28",
+                "cumm_revenue": 409635.2000000002
+            },
+            {
+                "order_date": "2015-06-29",
+                "cumm_revenue": 411508.80000000016
+            },
+            {
+                "order_date": "2015-06-30",
+                "cumm_revenue": 413719.7500000002
+            },
+            {
+                "order_date": "2015-07-01",
+                "cumm_revenue": 415951.2500000002
+            },
+            {
+                "order_date": "2015-07-02",
+                "cumm_revenue": 418246.05000000016
+            },
+            {
+                "order_date": "2015-07-03",
+                "cumm_revenue": 421689.05000000016
+            },
+            {
+                "order_date": "2015-07-04",
+                "cumm_revenue": 425553.2500000002
+            },
+            {
+                "order_date": "2015-07-05",
+                "cumm_revenue": 427144.7000000002
+            },
+            {
+                "order_date": "2015-07-06",
+                "cumm_revenue": 429261.6000000002
+            },
+            {
+                "order_date": "2015-07-07",
+                "cumm_revenue": 431636.00000000023
+            },
+            {
+                "order_date": "2015-07-08",
+                "cumm_revenue": 434032.0500000002
+            },
+            {
+                "order_date": "2015-07-09",
+                "cumm_revenue": 436329.8000000002
+            },
+            {
+                "order_date": "2015-07-10",
+                "cumm_revenue": 438762.20000000024
+            },
+            {
+                "order_date": "2015-07-11",
+                "cumm_revenue": 440847.75000000023
+            },
+            {
+                "order_date": "2015-07-12",
+                "cumm_revenue": 443033.40000000026
+            },
+            {
+                "order_date": "2015-07-13",
+                "cumm_revenue": 445092.90000000026
+            },
+            {
+                "order_date": "2015-07-14",
+                "cumm_revenue": 447049.40000000026
+            },
+            {
+                "order_date": "2015-07-15",
+                "cumm_revenue": 449551.20000000024
+            },
+            {
+                "order_date": "2015-07-16",
+                "cumm_revenue": 452015.10000000027
+            },
+            {
+                "order_date": "2015-07-17",
+                "cumm_revenue": 455146.7500000003
+            },
+            {
+                "order_date": "2015-07-18",
+                "cumm_revenue": 457268.9500000003
+            },
+            {
+                "order_date": "2015-07-19",
+                "cumm_revenue": 459291.6500000003
+            },
+            {
+                "order_date": "2015-07-20",
+                "cumm_revenue": 461792.6500000003
+            },
+            {
+                "order_date": "2015-07-21",
+                "cumm_revenue": 463823.5000000003
+            },
+            {
+                "order_date": "2015-07-22",
+                "cumm_revenue": 466115.60000000027
+            },
+            {
+                "order_date": "2015-07-23",
+                "cumm_revenue": 468330.10000000027
+            },
+            {
+                "order_date": "2015-07-24",
+                "cumm_revenue": 471534.5000000003
+            },
+            {
+                "order_date": "2015-07-25",
+                "cumm_revenue": 473771.7500000003
+            },
+            {
+                "order_date": "2015-07-26",
+                "cumm_revenue": 475643.3000000003
+            },
+            {
+                "order_date": "2015-07-27",
+                "cumm_revenue": 477815.3000000003
+            },
+            {
+                "order_date": "2015-07-28",
+                "cumm_revenue": 479909.85000000027
+            },
+            {
+                "order_date": "2015-07-29",
+                "cumm_revenue": 481833.10000000027
+            },
+            {
+                "order_date": "2015-07-30",
+                "cumm_revenue": 484182.2500000003
+            },
+            {
+                "order_date": "2015-07-31",
+                "cumm_revenue": 486277.6500000003
+            },
+            {
+                "order_date": "2015-08-01",
+                "cumm_revenue": 488718.2000000003
+            },
+            {
+                "order_date": "2015-08-02",
+                "cumm_revenue": 490628.3500000003
+            },
+            {
+                "order_date": "2015-08-03",
+                "cumm_revenue": 492610.6000000003
+            },
+            {
+                "order_date": "2015-08-04",
+                "cumm_revenue": 494700.75000000035
+            },
+            {
+                "order_date": "2015-08-05",
+                "cumm_revenue": 496795.6000000003
+            },
+            {
+                "order_date": "2015-08-06",
+                "cumm_revenue": 498894.8500000003
+            },
+            {
+                "order_date": "2015-08-07",
+                "cumm_revenue": 501521.25000000035
+            },
+            {
+                "order_date": "2015-08-08",
+                "cumm_revenue": 504237.6500000004
+            },
+            {
+                "order_date": "2015-08-09",
+                "cumm_revenue": 506240.3000000004
+            },
+            {
+                "order_date": "2015-08-10",
+                "cumm_revenue": 508379.7500000004
+            },
+            {
+                "order_date": "2015-08-11",
+                "cumm_revenue": 510669.7500000004
+            },
+            {
+                "order_date": "2015-08-12",
+                "cumm_revenue": 513035.5000000004
+            },
+            {
+                "order_date": "2015-08-13",
+                "cumm_revenue": 515109.65000000043
+            },
+            {
+                "order_date": "2015-08-14",
+                "cumm_revenue": 518126.2500000004
+            },
+            {
+                "order_date": "2015-08-15",
+                "cumm_revenue": 520378.6000000004
+            },
+            {
+                "order_date": "2015-08-16",
+                "cumm_revenue": 522517.9000000004
+            },
+            {
+                "order_date": "2015-08-17",
+                "cumm_revenue": 525143.9000000004
+            },
+            {
+                "order_date": "2015-08-18",
+                "cumm_revenue": 527245.1000000003
+            },
+            {
+                "order_date": "2015-08-19",
+                "cumm_revenue": 529578.0500000003
+            },
+            {
+                "order_date": "2015-08-20",
+                "cumm_revenue": 531485.7500000002
+            },
+            {
+                "order_date": "2015-08-21",
+                "cumm_revenue": 534087.1500000003
+            },
+            {
+                "order_date": "2015-08-22",
+                "cumm_revenue": 536493.1500000003
+            },
+            {
+                "order_date": "2015-08-23",
+                "cumm_revenue": 538194.7500000002
+            },
+            {
+                "order_date": "2015-08-24",
+                "cumm_revenue": 539891.8000000003
+            },
+            {
+                "order_date": "2015-08-25",
+                "cumm_revenue": 541850.7000000003
+            },
+            {
+                "order_date": "2015-08-26",
+                "cumm_revenue": 544180.1000000003
+            },
+            {
+                "order_date": "2015-08-27",
+                "cumm_revenue": 546297.7500000003
+            },
+            {
+                "order_date": "2015-08-28",
+                "cumm_revenue": 548944.9500000003
+            },
+            {
+                "order_date": "2015-08-29",
+                "cumm_revenue": 550979.9500000003
+            },
+            {
+                "order_date": "2015-08-30",
+                "cumm_revenue": 552474.5500000003
+            },
+            {
+                "order_date": "2015-08-31",
+                "cumm_revenue": 554555.9000000003
+            },
+            {
+                "order_date": "2015-09-01",
+                "cumm_revenue": 556908.7500000002
+            },
+            {
+                "order_date": "2015-09-02",
+                "cumm_revenue": 558774.3000000003
+            },
+            {
+                "order_date": "2015-09-03",
+                "cumm_revenue": 561026.9000000003
+            },
+            {
+                "order_date": "2015-09-04",
+                "cumm_revenue": 563987.8500000002
+            },
+            {
+                "order_date": "2015-09-05",
+                "cumm_revenue": 566525.6500000003
+            },
+            {
+                "order_date": "2015-09-06",
+                "cumm_revenue": 568017.3000000003
+            },
+            {
+                "order_date": "2015-09-07",
+                "cumm_revenue": 570300.6500000003
+            },
+            {
+                "order_date": "2015-09-08",
+                "cumm_revenue": 572550.1500000003
+            },
+            {
+                "order_date": "2015-09-09",
+                "cumm_revenue": 575130.2500000002
+            },
+            {
+                "order_date": "2015-09-10",
+                "cumm_revenue": 577546.1000000002
+            },
+            {
+                "order_date": "2015-09-11",
+                "cumm_revenue": 580308.0000000002
+            },
+            {
+                "order_date": "2015-09-12",
+                "cumm_revenue": 582896.1500000003
+            },
+            {
+                "order_date": "2015-09-13",
+                "cumm_revenue": 584734.3000000003
+            },
+            {
+                "order_date": "2015-09-14",
+                "cumm_revenue": 586899.5500000003
+            },
+            {
+                "order_date": "2015-09-15",
+                "cumm_revenue": 589449.7500000002
+            },
+            {
+                "order_date": "2015-09-16",
+                "cumm_revenue": 591635.0000000002
+            },
+            {
+                "order_date": "2015-09-17",
+                "cumm_revenue": 593877.0500000003
+            },
+            {
+                "order_date": "2015-09-18",
+                "cumm_revenue": 596598.6000000003
+            },
+            {
+                "order_date": "2015-09-19",
+                "cumm_revenue": 598885.1500000004
+            },
+            {
+                "order_date": "2015-09-20",
+                "cumm_revenue": 600714.1500000004
+            },
+            {
+                "order_date": "2015-09-21",
+                "cumm_revenue": 602845.6000000003
+            },
+            {
+                "order_date": "2015-09-22",
+                "cumm_revenue": 605016.0000000003
+            },
+            {
+                "order_date": "2015-09-23",
+                "cumm_revenue": 607179.0000000003
+            },
+            {
+                "order_date": "2015-09-26",
+                "cumm_revenue": 609425.8500000003
+            },
+            {
+                "order_date": "2015-09-27",
+                "cumm_revenue": 611740.5500000003
+            },
+            {
+                "order_date": "2015-09-28",
+                "cumm_revenue": 613775.8500000003
+            },
+            {
+                "order_date": "2015-09-29",
+                "cumm_revenue": 616537.9000000004
+            },
+            {
+                "order_date": "2015-09-30",
+                "cumm_revenue": 618735.9500000004
+            },
+            {
+                "order_date": "2015-10-01",
+                "cumm_revenue": 621938.1000000004
+            },
+            {
+                "order_date": "2015-10-02",
+                "cumm_revenue": 624012.9500000004
+            },
+            {
+                "order_date": "2015-10-03",
+                "cumm_revenue": 626413.9000000004
+            },
+            {
+                "order_date": "2015-10-04",
+                "cumm_revenue": 628556.1000000003
+            },
+            {
+                "order_date": "2015-10-06",
+                "cumm_revenue": 630772.0500000003
+            },
+            {
+                "order_date": "2015-10-07",
+                "cumm_revenue": 632864.4000000003
+            },
+            {
+                "order_date": "2015-10-08",
+                "cumm_revenue": 634840.2500000002
+            },
+            {
+                "order_date": "2015-10-09",
+                "cumm_revenue": 637352.8500000002
+            },
+            {
+                "order_date": "2015-10-10",
+                "cumm_revenue": 639663.0500000002
+            },
+            {
+                "order_date": "2015-10-11",
+                "cumm_revenue": 641579.3000000002
+            },
+            {
+                "order_date": "2015-10-13",
+                "cumm_revenue": 643905.2500000001
+            },
+            {
+                "order_date": "2015-10-14",
+                "cumm_revenue": 646051.6000000001
+            },
+            {
+                "order_date": "2015-10-15",
+                "cumm_revenue": 650371.8
+            },
+            {
+                "order_date": "2015-10-16",
+                "cumm_revenue": 652926.9
+            },
+            {
+                "order_date": "2015-10-17",
+                "cumm_revenue": 655266.7000000001
+            },
+            {
+                "order_date": "2015-10-18",
+                "cumm_revenue": 657062.0000000001
+            },
+            {
+                "order_date": "2015-10-20",
+                "cumm_revenue": 659499.1500000001
+            },
+            {
+                "order_date": "2015-10-21",
+                "cumm_revenue": 661959.6500000001
+            },
+            {
+                "order_date": "2015-10-22",
+                "cumm_revenue": 664360.5500000002
+            },
+            {
+                "order_date": "2015-10-23",
+                "cumm_revenue": 666971.2000000002
+            },
+            {
+                "order_date": "2015-10-24",
+                "cumm_revenue": 669650.7000000002
+            },
+            {
+                "order_date": "2015-10-25",
+                "cumm_revenue": 671487.7500000002
+            },
+            {
+                "order_date": "2015-10-27",
+                "cumm_revenue": 673476.4000000003
+            },
+            {
+                "order_date": "2015-10-28",
+                "cumm_revenue": 675112.3500000002
+            },
+            {
+                "order_date": "2015-10-29",
+                "cumm_revenue": 677282.1000000002
+            },
+            {
+                "order_date": "2015-10-30",
+                "cumm_revenue": 680018.7000000002
+            },
+            {
+                "order_date": "2015-10-31",
+                "cumm_revenue": 682763.5500000002
+            },
+            {
+                "order_date": "2015-11-01",
+                "cumm_revenue": 684750.2000000002
+            },
+            {
+                "order_date": "2015-11-02",
+                "cumm_revenue": 687049.3000000002
+            },
+            {
+                "order_date": "2015-11-03",
+                "cumm_revenue": 688877.8500000002
+            },
+            {
+                "order_date": "2015-11-04",
+                "cumm_revenue": 690843.9500000002
+            },
+            {
+                "order_date": "2015-11-05",
+                "cumm_revenue": 693024.3000000002
+            },
+            {
+                "order_date": "2015-11-06",
+                "cumm_revenue": 696181.8000000002
+            },
+            {
+                "order_date": "2015-11-07",
+                "cumm_revenue": 698762.7500000001
+            },
+            {
+                "order_date": "2015-11-08",
+                "cumm_revenue": 700872.9000000001
+            },
+            {
+                "order_date": "2015-11-09",
+                "cumm_revenue": 703356.6500000001
+            },
+            {
+                "order_date": "2015-11-10",
+                "cumm_revenue": 705399.2500000001
+            },
+            {
+                "order_date": "2015-11-11",
+                "cumm_revenue": 707345.4500000001
+            },
+            {
+                "order_date": "2015-11-12",
+                "cumm_revenue": 709910.2500000001
+            },
+            {
+                "order_date": "2015-11-13",
+                "cumm_revenue": 712174.8000000002
+            },
+            {
+                "order_date": "2015-11-14",
+                "cumm_revenue": 714499.5500000002
+            },
+            {
+                "order_date": "2015-11-15",
+                "cumm_revenue": 716321.2000000002
+            },
+            {
+                "order_date": "2015-11-16",
+                "cumm_revenue": 718577.8500000002
+            },
+            {
+                "order_date": "2015-11-17",
+                "cumm_revenue": 720534.4000000003
+            },
+            {
+                "order_date": "2015-11-18",
+                "cumm_revenue": 722646.1000000002
+            },
+            {
+                "order_date": "2015-11-19",
+                "cumm_revenue": 725341.0000000002
+            },
+            {
+                "order_date": "2015-11-20",
+                "cumm_revenue": 727729.1000000002
+            },
+            {
+                "order_date": "2015-11-21",
+                "cumm_revenue": 729813.0500000002
+            },
+            {
+                "order_date": "2015-11-22",
+                "cumm_revenue": 731181.7500000001
+            },
+            {
+                "order_date": "2015-11-23",
+                "cumm_revenue": 733646.9000000001
+            },
+            {
+                "order_date": "2015-11-24",
+                "cumm_revenue": 735876.9500000002
+            },
+            {
+                "order_date": "2015-11-25",
+                "cumm_revenue": 738240.2000000002
+            },
+            {
+                "order_date": "2015-11-26",
+                "cumm_revenue": 742646.1500000001
+            },
+            {
+                "order_date": "2015-11-27",
+                "cumm_revenue": 747068.6000000001
+            },
+            {
+                "order_date": "2015-11-28",
+                "cumm_revenue": 749036.6500000001
+            },
+            {
+                "order_date": "2015-11-29",
+                "cumm_revenue": 750935.6500000001
+            },
+            {
+                "order_date": "2015-11-30",
+                "cumm_revenue": 753158.9000000001
+            },
+            {
+                "order_date": "2015-12-01",
+                "cumm_revenue": 755235.6000000001
+            },
+            {
+                "order_date": "2015-12-02",
+                "cumm_revenue": 757449.7000000001
+            },
+            {
+                "order_date": "2015-12-03",
+                "cumm_revenue": 759692.9
+            },
+            {
+                "order_date": "2015-12-04",
+                "cumm_revenue": 762571.25
+            },
+            {
+                "order_date": "2015-12-05",
+                "cumm_revenue": 765199.2
+            },
+            {
+                "order_date": "2015-12-06",
+                "cumm_revenue": 767549.45
+            },
+            {
+                "order_date": "2015-12-07",
+                "cumm_revenue": 769964.25
+            },
+            {
+                "order_date": "2015-12-08",
+                "cumm_revenue": 771820.5
+            },
+            {
+                "order_date": "2015-12-09",
+                "cumm_revenue": 774392.05
+            },
+            {
+                "order_date": "2015-12-10",
+                "cumm_revenue": 776377.65
+            },
+            {
+                "order_date": "2015-12-11",
+                "cumm_revenue": 779011.65
+            },
+            {
+                "order_date": "2015-12-12",
+                "cumm_revenue": 780971.8
+            },
+            {
+                "order_date": "2015-12-13",
+                "cumm_revenue": 783216.9500000001
+            },
+            {
+                "order_date": "2015-12-14",
+                "cumm_revenue": 785389.55
+            },
+            {
+                "order_date": "2015-12-15",
+                "cumm_revenue": 787777.0
+            },
+            {
+                "order_date": "2015-12-16",
+                "cumm_revenue": 790011.8
+            },
+            {
+                "order_date": "2015-12-17",
+                "cumm_revenue": 791892.55
+            },
+            {
+                "order_date": "2015-12-18",
+                "cumm_revenue": 794778.8500000001
+            },
+            {
+                "order_date": "2015-12-19",
+                "cumm_revenue": 797083.05
+            },
+            {
+                "order_date": "2015-12-20",
+                "cumm_revenue": 799187.9500000001
+            },
+            {
+                "order_date": "2015-12-21",
+                "cumm_revenue": 801288.65
+            },
+            {
+                "order_date": "2015-12-22",
+                "cumm_revenue": 803171.6
+            },
+            {
+                "order_date": "2015-12-23",
+                "cumm_revenue": 805415.9
+            },
+            {
+                "order_date": "2015-12-24",
+                "cumm_revenue": 807553.75
+            },
+            {
+                "order_date": "2015-12-26",
+                "cumm_revenue": 809196.8
+            },
+            {
+                "order_date": "2015-12-27",
+                "cumm_revenue": 810615.8
+            },
+            {
+                "order_date": "2015-12-28",
+                "cumm_revenue": 812253.0
+            },
+            {
+                "order_date": "2015-12-29",
+                "cumm_revenue": 813606.25
+            },
+            {
+                "order_date": "2015-12-30",
+                "cumm_revenue": 814944.05
+            },
+            {
+                "order_date": "2015-12-31",
+                "cumm_revenue": 817860.05
+            }
+        ],
+        "top_3_by_revenue_per_category": [
+            {
+                "name": "The Thai Chicken Pizza",
+                "revenue": 43434.25
+            },
+            {
+                "name": "The Barbecue Chicken Pizza",
+                "revenue": 42768.0
+            },
+            {
+                "name": "The California Chicken Pizza",
+                "revenue": 41409.5
+            },
+            {
+                "name": "The Classic Deluxe Pizza",
+                "revenue": 38180.5
+            },
+            {
+                "name": "The Hawaiian Pizza",
+                "revenue": 32273.25
+            },
+            {
+                "name": "The Pepperoni Pizza",
+                "revenue": 30161.75
+            },
+            {
+                "name": "The Spicy Italian Pizza",
+                "revenue": 34831.25
+            },
+            {
+                "name": "The Italian Supreme Pizza",
+                "revenue": 33476.75
+            },
+            {
+                "name": "The Sicilian Pizza",
+                "revenue": 30940.5
+            },
+            {
+                "name": "The Four Cheese Pizza",
+                "revenue": 32265.70000000065
+            },
+            {
+                "name": "The Mexicana Pizza",
+                "revenue": 26780.75
+            },
+            {
+                "name": "The Five Cheese Pizza",
+                "revenue": 26066.5
+            }
+        ],
+        "monthly_revenue_trend": [
+            {
+                "month": "2015-01",
+                "revenue": 69793.3,
+                "growth_percent": null
+            },
+            {
+                "month": "2015-02",
+                "revenue": 65159.6,
+                "growth_percent": -6.64
+            },
+            {
+                "month": "2015-03",
+                "revenue": 70397.1,
+                "growth_percent": 8.04
+            },
+            {
+                "month": "2015-04",
+                "revenue": 68736.8,
+                "growth_percent": -2.36
+            },
+            {
+                "month": "2015-05",
+                "revenue": 71402.75,
+                "growth_percent": 3.88
+            },
+            {
+                "month": "2015-06",
+                "revenue": 68230.2,
+                "growth_percent": -4.44
+            },
+            {
+                "month": "2015-07",
+                "revenue": 72557.9,
+                "growth_percent": 6.34
+            },
+            {
+                "month": "2015-08",
+                "revenue": 68278.25,
+                "growth_percent": -5.9
+            },
+            {
+                "month": "2015-09",
+                "revenue": 64180.05,
+                "growth_percent": -6.0
+            },
+            {
+                "month": "2015-10",
+                "revenue": 64027.6,
+                "growth_percent": -0.24
+            },
+            {
+                "month": "2015-11",
+                "revenue": 70395.35,
+                "growth_percent": 9.95
+            },
+            {
+                "month": "2015-12",
+                "revenue": 64701.15,
+                "growth_percent": -8.09
+            }
+        ],
+        "revenue_by_weekday": [
+            {
+                "weekday": "Friday",
+                "revenue": 136073.9,
+                "total_orders": 3538
+            },
+            {
+                "weekday": "Thursday",
+                "revenue": 123528.5,
+                "total_orders": 3239
+            },
+            {
+                "weekday": "Saturday",
+                "revenue": 123182.4,
+                "total_orders": 3158
+            },
+            {
+                "weekday": "Wednesday",
+                "revenue": 114408.4,
+                "total_orders": 3024
+            },
+            {
+                "weekday": "Tuesday",
+                "revenue": 114133.8,
+                "total_orders": 2973
+            },
+            {
+                "weekday": "Monday",
+                "revenue": 107329.55,
+                "total_orders": 2794
+            },
+            {
+                "weekday": "Sunday",
+                "revenue": 99203.5,
+                "total_orders": 2624
+            }
+        ],
+        "avg_order_value": 38.31,
+        "revenue_by_size": [
+            {
+                "size": "L",
+                "revenue": 375318.7,
+                "revenue_percent": 45.89
+            },
+            {
+                "size": "M",
+                "revenue": 249382.25,
+                "revenue_percent": 30.49
+            },
+            {
+                "size": "S",
+                "revenue": 178076.5,
+                "revenue_percent": 21.77
+            },
+            {
+                "size": "XL",
+                "revenue": 14076.0,
+                "revenue_percent": 1.72
+            },
+            {
+                "size": "XXL",
+                "revenue": 1006.6,
+                "revenue_percent": 0.12
+            }
+        ],
+        "worst_5_pizzas": [
+            {
+                "name": "The Brie Carre Pizza",
+                "total_quantity": "490",
+                "revenue": 11588.5
+            },
+            {
+                "name": "The Mediterranean Pizza",
+                "total_quantity": "934",
+                "revenue": 15360.5
+            },
+            {
+                "name": "The Calabrese Pizza",
+                "total_quantity": "937",
+                "revenue": 15934.25
+            },
+            {
+                "name": "The Spinach Supreme Pizza",
+                "total_quantity": "950",
+                "revenue": 15277.75
+            },
+            {
+                "name": "The Soppressata Pizza",
+                "total_quantity": "961",
+                "revenue": 16425.75
+            }
+        ],
+        "weekend_vs_weekday": [
+            {
+                "day_type": "Weekday",
+                "revenue": 595474.15,
+                "total_orders": 15568,
+                "avg_order_value": 38.25
+            },
+            {
+                "day_type": "Weekend",
+                "revenue": 222385.9,
+                "total_orders": 5782,
+                "avg_order_value": 38.46
+            }
+        ],
+        "peak_month": {
+            "month_name": "July",
+            "revenue": 72557.9
+        },
+        "peak_hours": [
+            {
+                "hour": 12,
+                "order_count": 2520
+            },
+            {
+                "hour": 13,
+                "order_count": 2455
+            },
+            {
+                "hour": 18,
+                "order_count": 2399
+            }
+        ],
+        "highest_growth_month": {
+            "month": "2015-11",
+            "revenue": 70395.35,
+            "growth_percent": 9.95
+        },
+        "biggest_decline_month": {
+            "month": "2015-12",
+            "revenue": 64701.15,
+            "growth_percent": -8.09
+        }
+    }
+}
