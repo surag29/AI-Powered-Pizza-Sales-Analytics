@@ -1,6 +1,0 @@
-mysql-connector-python
-python-dotenv
-groq
-matplotlib
-seaborn
-reportlab
